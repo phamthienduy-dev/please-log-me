@@ -1,5 +1,3 @@
 module.exports = function pleaseLogMe() {
-  return `hihi`;
+  return `V1V2 is the best!`;
 };
-
-console.log(pleaseLogMe());

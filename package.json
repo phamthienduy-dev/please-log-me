@@ -1,6 +1,6 @@
 {
   "name": "please-log-me",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Just log me",
   "main": "index.js",
   "scripts": {
