@@ -1,3 +1,3 @@
 module.exports = function pleaseLogMe() {
-  return `On point no.1!`;
+  return `Onpoint no.1!`;
 };
