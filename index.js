@@ -1,3 +1,3 @@
 module.exports = function pleaseLogMe() {
-  return `V1V2 is the best!`;
+  return `On point no.1!`;
 };
